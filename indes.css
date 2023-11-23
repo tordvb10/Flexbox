@@ -12,15 +12,15 @@ body {
   background-color: #f1f1f1;
   width: 150px;
   margin: 10px;
-  text-align: center;
-  line-height: 15px;
-  font-size: 15px;
-}
 
-.bilde {
-  width: 150px;
-  height: auto;
-}
+  .bilde {
+    width: 150px;
+    height: auto;
+  }
 
-.tekst {
+  .tekst {
+    text-align: center;
+    line-height: 15px;
+    font-size: 15px;
+  }
 }
