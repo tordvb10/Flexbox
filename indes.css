@@ -1,0 +1,26 @@
+body {
+  justify-content: center;
+}
+
+.flexsbox {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: DodgerBlue;
+}
+
+.test {
+  background-color: #f1f1f1;
+  width: 150px;
+  margin: 10px;
+  text-align: center;
+  line-height: 15px;
+  font-size: 15px;
+}
+
+.bilde {
+  width: 150px;
+  height: auto;
+}
+
+.tekst {
+}
